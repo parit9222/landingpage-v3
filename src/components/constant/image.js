@@ -1,5 +1,5 @@
 // Image 
-import ProboB from '../../assets/image/Probob.png'
+import ProboB from '../../assets/image/probob.png'
 import ZeroSeven from '../../assets/image/07.png'
 import Tournaments from "../../assets/image/tournaments.png"
 import ZeroSix from '../../assets/image/06.png'
