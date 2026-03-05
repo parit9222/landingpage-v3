@@ -1,0 +1,12 @@
+.custom-progress .swiper-pagination-bullet {
+  flex: 1;
+  height: 4px;
+  border-radius: 999px;
+  background: #e5e5e5;
+  opacity: 1;
+  margin: 0 !important;
+}
+
+.custom-progress .swiper-pagination-bullet-active {
+  background: #000;
+}

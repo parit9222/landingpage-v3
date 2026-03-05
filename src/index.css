@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* * {
+  font-family: "Barlow Condensed", sans-serif !important;
+  font-style: normal;
+} */
+
+*:not(i):not(svg):not([class*="fa-"]) {
+  font-family: "Barlow Condensed", sans-serif;
+  font-style: normal;
+}
+
+/* body {
+  background-color: black;
+} */
